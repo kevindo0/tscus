@@ -97,8 +97,8 @@ drawAllShapes(new triangle.Triangle());
 ```
 
 #### 6、声明文件
-需要将这些库里的函数和方法体去掉后只保留导出类型声明，而产生了一个描述 JavaScript 库和模块信息的声明文件  
-使用 declare 关键字来定义它的类型
+需要将这些库里的函数和方法体去掉后只保留导出类型声明，而产生了一个描述 JavaScript 库和模块信息的声明文件   
+使用 declare 关键字来定义它的类型   
 **Calc.d.ts**文件
 ```ts
 declare module Runoob { 
